@@ -1,0 +1,6 @@
+		
+
+		var man = new RD.SceneNode();
+		man.color = [1,0,0,1];
+		man.mesh = "data/man.obj";
+		man.shader = "phong";
